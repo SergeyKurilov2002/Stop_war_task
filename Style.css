@@ -1,0 +1,38 @@
+html {
+    font-size:20px;
+}
+header {
+    width:100%;
+    height:150px;
+    background-color: #FFFFFF;
+}
+.Logotype {
+    height:92px;
+}
+.Page {
+    background: #0404B4;
+    color: #FFFF00;
+}
+.Photo_Mariupol {
+    width:100%;
+    text-align:center;
+}
+.button {
+    color: #FFFFFF;
+    background-color: #0404B4;
+  border: 6px solid #0404B4;
+  border-radius: 25px;
+}
+.Photo_post {
+    width:80%;
+}
+footer {
+    height: 70px;
+    color: #0404B4;
+    background-color:#FFFF00;
+}
+nav[am-layout] a:not(.am-floating-action) {
+  padding: 30px;
+  display: inline-block;
+  text-decoration: none;
+}
